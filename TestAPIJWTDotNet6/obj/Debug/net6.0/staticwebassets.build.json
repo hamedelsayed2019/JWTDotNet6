@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WM2UfNuqGW6qoCxYutsd3IKDPJ8GZ3LGhYS/5od/aXg=",
+  "Source": "TestAPIJWTDotNet6",
+  "BasePath": "_content/TestAPIJWTDotNet6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
